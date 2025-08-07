@@ -1,4 +1,4 @@
-import { Alert as HeroUIAlert } from '@heroui/alert';
+import { Alert as HeroUIAlert } from '@heroui/react';
 import { clsx } from 'clsx';
 import { ChevronDown, ChevronUp } from 'lucide-react';
 import { useState } from 'react';
